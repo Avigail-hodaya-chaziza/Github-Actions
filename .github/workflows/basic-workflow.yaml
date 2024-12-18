@@ -10,5 +10,5 @@ jobs:
       - name: The Thing I've Done
         run: echo "I've done a thing!"
 
-      -name: Second echo
+      - name: Second echo
         run: echo "I've done a thing!"
